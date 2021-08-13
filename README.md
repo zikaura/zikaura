@@ -1,1 +1,1 @@
-### Professional Python Wrangler
+### Game AI Architect by Day ~ CG Artist by Night

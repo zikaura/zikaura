@@ -1,2 +1,2 @@
 ### Game AI Architect by Day ~ CG Artist by Night
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikorano&show_icons=true&theme_name=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikorano&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)

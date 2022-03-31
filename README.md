@@ -1,2 +1,2 @@
-### Game AI Engineer and CG Nerd
+###  Real-time Application Developer and Computer Graphics Geek
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikorano&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)

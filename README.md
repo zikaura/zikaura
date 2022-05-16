@@ -1,2 +1,2 @@
-###  Networking Engineer and Technical Artist
+###  Technical Artist and Web Developer
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikorano&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

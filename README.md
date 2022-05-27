@@ -1,2 +1,11 @@
-###  Technical Artist and Web Developer
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikorano&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=zikorano%20&width=800&height=400)](https://github.com/sitiom)
+  
+<!--   [![Counter](https://visitor-badge.laobi.icu/badge?page_id=zikorano.zikorano)](https://github.com/zikorano) -->
+<!--   ![GitHub User's stars](https://img.shields.io/github/stars/sitiom?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars) -->
+  
+  [![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-contribution-grid-snake.svg)](https://github.com/sitiom)
+  
+  [![Metrics](https://raw.githubusercontent.com/zikorano/zikorano/assets/github-metrics.svg)](https://github.com/zikorano)
+</div>

@@ -5,7 +5,7 @@
 <!--   [![Counter](https://visitor-badge.laobi.icu/badge?page_id=zikorano.zikorano)](https://github.com/zikorano) -->
 <!--   ![GitHub User's stars](https://img.shields.io/github/stars/sitiom?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars) -->
   
-  [![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-contribution-grid-snake.svg)](https://github.com/sitiom)
+  [![Snake Graph](https://raw.githubusercontent.com/sitiom/zikorano/assets/github-contribution-grid-snake.svg)](https://github.com/zikorano)
   
   [![Metrics](https://raw.githubusercontent.com/zikorano/zikorano/assets/github-metrics.svg)](https://github.com/zikorano)
 </div>

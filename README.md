@@ -4,7 +4,7 @@
 
 Greetings!
 =========================
-My name's Zikora *[ zikora | zee-caw-ra ]*<br>
+My name's Zikora *[ ziːˈkɒrə | zee-caw-ra ]*<br>
 </div>
 
 I'm a software developer with an artist bent.

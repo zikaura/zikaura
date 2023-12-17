@@ -5,5 +5,5 @@
 Hi
 =========================
 My name's Zikora *[ ziːˈkɒrə | zee-ko-ra ]*<br>
-I write pictures for a living.
+I write pictures.
 </div>

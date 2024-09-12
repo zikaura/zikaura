@@ -4,6 +4,6 @@
   
 Hi
 =========================
-My name's Zikora *[ ziːˈkɒrə | zee-ko-ra | ゼィコラ ]*<br>
-I write pictures. 私は絵を書きます
+My name's Zikora *[ ziːˈkɒrə | zee-ko-ra ]*<br>
+I write pictures.
 </div>

@@ -1,9 +1,10 @@
-<div align="center">
-  
-  [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=zikaura%20&width=400&height=200)](https://github.com/zikaura)
-  
-Hi
-=========================
-My name's Zikora *[ ziːˈkɒrə | zee-ko-ra ]*<br>
+<img src="banner.png">
+
+---
+
+Zikora *[ ziːˈkɒrə | zee-ko-ra ]*
 I write pictures.
-</div>
+
+- Former Environment Concept Artist at Ubisoft 
+- Studying Graphics / Game Programming at OAC,  Osaka 
+- When I'm not studying I'm developing ✨ T H I N G S ✨
